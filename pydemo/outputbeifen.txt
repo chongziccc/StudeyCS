@@ -1,0 +1,4 @@
+python is fun
+java is powerful
+c++ is fasthello
+words
